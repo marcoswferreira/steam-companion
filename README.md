@@ -1,6 +1,14 @@
-# Steam Companion 🎮
+# ⚠️ [ARCHIVED] Steam Companion 🎮
 
-> **High-performance Steam Ecosystem Companion & DualSense Studio Extension.**  
+> [!WARNING]
+> **This monolithic repository has been archived and is no longer actively maintained.**  
+> The project was split into two focused, independent repositories:
+> - 🎮 **[DualSense Studio](https://github.com/marcoswferreira/dualsense-studio)**: Dedicated PlayStation 5 DualSense companion, Adaptive Triggers tuner, ViGEmBus XInput/DS4 emulation, and Cemuhook Motion UDP server. *(Active development)*
+> - 🚀 **[Steam Tools](https://github.com/marcoswferreira/steam-tools)**: High-performance Non-Steam Game Importer, ROM header scanner, emulator launcher resolver, Steam Grid artwork engine, and CDP achievement notifications.
+
+---
+
+> **High-performance Steam Ecosystem Companion & DualSense Studio Extension (Legacy Monolith).**  
 > Built from scratch in **100% Native Rust**, Steam Companion connects non-Steam games and emulators into Valve's Steam ecosystem with atomic `shortcuts.vdf` synchronization, native Steam achievement notifications, System Tray lifecycle management, and an opt-in **DualSense Studio** hardware extension.
 
 [![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
